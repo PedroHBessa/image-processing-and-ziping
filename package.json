@@ -1,0 +1,16 @@
+{
+  "name": "edit-img",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.5",
+    "image-conversion": "^2.1.1",
+    "jimp": "^0.16.1"
+  }
+}
